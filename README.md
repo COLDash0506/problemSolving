@@ -9,7 +9,6 @@ PS 풀이 집합 레포지토리
 - C
 - C++
 - Python
-- JavaScript
 
 ## 백준 프로필
 
